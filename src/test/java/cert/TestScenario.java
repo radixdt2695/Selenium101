@@ -1,6 +1,6 @@
 package cert;
 
-
+//SOG002
 import java.net.MalformedURLException;
 import java.net.URL;
 
@@ -55,6 +55,7 @@ public class TestScenario {
 		
 	}
 	
+
 	
 	@Test(priority=1,description="TestScenario 1")
 	public void testScenario1() throws InterruptedException
