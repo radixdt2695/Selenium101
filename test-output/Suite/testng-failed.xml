@@ -3,6 +3,7 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
+
       <class name="cert.Testinglambda">
         <methods>
           <include name="setup"/>
@@ -12,4 +13,4 @@
       </class> <!-- cert.Testinglambda -->
     </classes>
   </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+</suite> <!-- Failed suite [Suite]fgg1fg23 -->
