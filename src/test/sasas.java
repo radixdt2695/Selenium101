@@ -25,7 +25,7 @@ import org.testng.asserts.SoftAssert;
 //import java.net.URL;
 
 
-public class sasas {
+public class sasasgit {
 	
 	public WebDriver driver;
     private String username = "radixdt.2695";
