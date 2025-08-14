@@ -22,7 +22,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 //import io.github.bonigarcia.wdm.WebDriverManager;
 //import java.net.MalformedURLException;
-//import java.net.URL;
+//import java.net.URLL;
 
 
 public class TestScenario {
@@ -160,7 +160,5 @@ public class TestScenario {
             ((JavascriptExecutor) driver).executeScript("lambda-status=" + status);
             driver.quit();
         }
-    }
-	
-	
+    }	
 }
